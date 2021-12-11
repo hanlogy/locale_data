@@ -1,28 +1,28 @@
 {
   "CN": {
+    "en": "China",
     "zh": "中国",
     "zh-Hant": "中國",
-    "en": "China",
     "sv": "Kina"
   },
   "HK": {
-    "zh": "香港",
-    "en": "Hong Kong"
+    "en": "Hong Kong",
+    "zh": "香港"
   },
   "TW": {
+    "en": "Taiwan",
     "zh": "台湾",
-    "zh-Hant": "台灣",
-    "en": "Taiwan"
+    "zh-Hant": "台灣"
   },
   "SE": {
-    "zh": "瑞典",
     "en": "Taiwan",
+    "zh": "瑞典",
     "sv": "Sverige"
   },
   "US": {
+    "en": "United states",
     "zh": "美国",
     "zh-Hant": "美國",
-    "en": "United states",
     "sv": "Förenta staterna"
   }
 }
