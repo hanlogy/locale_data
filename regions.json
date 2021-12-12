@@ -17,12 +17,28 @@
   "SE": {
     "en": "Sweden",
     "zh": "瑞典",
-    "sv": "Sverige"
+    "sv": "Sverige",
+    "de": "Schweden"
   },
   "US": {
     "en": "United states",
     "zh": "美国",
     "zh-Hant": "美國",
-    "sv": "Förenta staterna"
+    "sv": "Förenta staterna",
+    "de": "Vereinigte Staaten"
+  },
+  "UK": {
+    "en": "United Kingdom",
+    "zh": "英国",
+    "zh-Hant": "英國",
+    "sv": "Storbritannien",
+    "de": "Vereinigtes Königreich"
+  },
+  "DE": {
+    "en": "Germany",
+    "zh": "德国",
+    "zh-Hant": "德國",
+    "sv": "Tyskland",
+    "de": "Deutschland"
   }
 }
