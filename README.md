@@ -2,8 +2,17 @@
 
 ### Script code
 
-Now only Chinese has script codes, which are `Hans` and `Hant`.
-Script code must be used with two letters language code.
+Only Chinese has script codes, which are `Hans` and `Hant`.
+Script code must be used with two letters language code, such as `zh_Hant`.
+
+**Abount zh_Hans**
+
+Because of we use simplified Chinese by default, `Hans` should no be used,
+it means there is no `zh_Hans` nor `zh_Hans_[region]` hanppens. For example,
+`zh_Hans` should be `zh` and `zh_Hans_SG` should be `zh_SG`.  
+_Exception:_  
+`languages.json` uses `zh_Hans` as the key of `简体中文`, because of
+we give `zh` and `zh_Hans` different names.
 
 ### Language
 
@@ -14,7 +23,6 @@ For example:
 
 ```
 zh //generic Chinese
-zh_Hans //generic simplified Chinese
 zh_Hant //generic traditional Chinese
 en_US
 fr_FR
@@ -32,7 +40,7 @@ See:
 A locale consits of language and region, for example:
 
 ```
-zh_Hans_CN // simplified Chinese with region code
+zh_CN // simplified Chinese with region code
 zh_Hant_HK // traditional Chinese with region code
 zh_Hant_TW
 ```
@@ -80,7 +88,7 @@ Example:
     "en": "Laos",
     "zh": "老挝",
     "zh_Hant": "老撾",
-    "zh_Hans_SG": "寮国",
+    "zh_SG": "寮国",
     "zh_Hant_TW": "寮國"
   }
 }
