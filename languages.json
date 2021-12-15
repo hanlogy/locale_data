@@ -1,9 +1,9 @@
 {
   "en": "English",
   "zh": "中文",
-  "zh-Hans": "简体中文",
-  "zh-Hant": "繁體中文",
-  "zh-Hant_TW": "正體中文",
+  "zh_Hans": "简体中文",
+  "zh_Hant": "繁體中文",
+  "zh_Hant_TW": "正體中文",
   "sv": "Svenska",
   "de": "Deutsch"
 }

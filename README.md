@@ -8,11 +8,13 @@ Example
 
 ```
 zh //generic Chinese
-zh-Hans //generic simplified Chinese
-zh-Hant //generic traditional Chinese
-zh-Hans_CN // with region code
-zh-Hant_HK
-zh-Hant_TW
+zh_Hans //generic simplified Chinese
+zh_Hant //generic traditional Chinese
+zh_Hans_CN // with region code
+zh_Hant_HK
+zh_Hant_TW
 en_US
 fr_FR
 ```
+
+[Flutter: Advanced locale definition](https://docs.flutter.dev/development/accessibility-and-localization/internationalization#advanced-locale-definition)
