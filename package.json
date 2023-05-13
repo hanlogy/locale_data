@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
