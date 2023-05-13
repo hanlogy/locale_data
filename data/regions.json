@@ -1,0 +1,74 @@
+{
+  "CN": {
+    "l10n": {
+      "en": "China",
+      "zh": "中国",
+      "zh_Hant": "中國",
+      "sv": "Kina"
+    },
+    "calling_code": "86"
+  },
+  "HK": {
+    "l10n": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "calling_code": "852"
+  },
+  "TW": {
+    "l10n": {
+      "en": "Taiwan",
+      "zh": "台湾",
+      "zh_Hant": "台灣"
+    },
+    "calling_code": "886"
+  },
+  "SE": {
+    "l10n": {
+      "en": "Sweden",
+      "zh": "瑞典",
+      "sv": "Sverige"
+    },
+    "calling_code": "46"
+  },
+  "US": {
+    "l10n": {
+      "en": "United States",
+      "zh": "美国",
+      "zh_Hant": "美國",
+      "sv": "Förenta staterna",
+      "de": "Vereinigte Staaten"
+    },
+    "calling_code": "1"
+  },
+  "UK": {
+    "l10n": {
+      "en": "United Kingdom",
+      "zh": "英国",
+      "zh_Hant": "英國",
+      "sv": "Storbritannien",
+      "de": "Vereinigtes Königreich"
+    },
+    "calling_code": "44"
+  },
+  "DE": {
+    "l10n": {
+      "en": "Germany",
+      "zh": "德国",
+      "zh_Hant": "德國",
+      "sv": "Tyskland",
+      "de": "Deutschland"
+    },
+    "calling_code": "49"
+  },
+  "LA": {
+    "l10n": {
+      "en": "Laos",
+      "zh": "老挝",
+      "zh_Hant": "老撾",
+      "zh_SG": "寮国",
+      "zh_Hant_TW": "寮國"
+    },
+    "calling_code": "856"
+  }
+}
