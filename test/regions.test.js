@@ -28,6 +28,7 @@ describe('regions', () => {
 
     for (const key in regions) {
       const { l10n, _ } = regions[key];
+      expect(l10n).toHaveProperty('en');
 
       for (const key in l10n) {
         expectLanguageCode(key);
