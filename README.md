@@ -9,32 +9,28 @@ The script code should be combined with a two-letter language code, for example:
 zh_Hant
 ```
 
-**Abount zh_Hans**
+**Abount `zh_Hans`**
 
 Since we use simplified Chinese as the default, `Hans` should not be used.
 Therefore, there is no `zh*Hans` or `zh_Hans_[region]`. For example, `zh_Hans`
 should be referred to as `zh`, and `zh_Hans_SG` should be referred to as
 `zh_SG`.
 
-**Abount zh*Hant*[region]**
+**Abount `zh_Hant_[region]`**
 
-`zh_Hant_[region]` should be only used for `TW`,`HK` and `MO`, and for these 3
-regions, the locale should have the script code `Hant`. For example, these are
+`TW`,`HK` and `MO` must have the script code `Hant`, For example, these are
 not allowed as the keys in our data:
 
 ```
 zh_TW
 zh_HK
 zh_MO
-zh_Hant_SG
 ```
 
-and these are allowed:
+All regions allow `Hant`, for example:
 
 ```
-zh_Hant_TW
-zh_Hant_HK
-zh_Hant_MO
+zh_Hant_US
 ```
 
 ### Language
