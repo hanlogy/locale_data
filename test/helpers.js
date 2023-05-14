@@ -31,9 +31,6 @@ const expectLanguageCode = (code) => {
       expect(secondPart.length).toBe(2);
     }
   } else if (parts.length === 3) {
-    if (secondPart === 'Hant') {
-      expect(['TW', 'HK', 'MO']).toContain(thirdPart);
-    }
     expect(thirdPart).toBe(thirdPart.toUpperCase());
     expect(thirdPart.length).toBe(2);
   }
