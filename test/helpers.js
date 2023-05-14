@@ -18,10 +18,22 @@ const expectLanguageCode = (code) => {
   expect(firstPart).toBe(firstPart.toLowerCase());
   expect(firstPart.length).toBe(2);
 
-  if (parts.length === 2 && secondPart !== 'Hant') {
-    expect(secondPart).toBe(secondPart.toUpperCase());
-    expect(secondPart.length).toBe(2);
+  // `Hans` hould not be used
+  expect(secondPart?.toLowerCase()).not.toBe('hans');
+
+  if (parts.length === 2) {
+    if (firstPart === 'zh') {
+      expect(['TW', 'HK', 'MO']).not.toContain(secondPart);
+    }
+
+    if (secondPart !== 'Hant') {
+      expect(secondPart).toBe(secondPart.toUpperCase());
+      expect(secondPart.length).toBe(2);
+    }
   } else if (parts.length === 3) {
+    if (secondPart === 'Hant') {
+      expect(['TW', 'HK', 'MO']).toContain(thirdPart);
+    }
     expect(thirdPart).toBe(thirdPart.toUpperCase());
     expect(thirdPart.length).toBe(2);
   }
