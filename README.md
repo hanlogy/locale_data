@@ -16,6 +16,27 @@ Therefore, there is no `zh*Hans` or `zh_Hans_[region]`. For example, `zh_Hans`
 should be referred to as `zh`, and `zh_Hans_SG` should be referred to as
 `zh_SG`.
 
+**Abount zh*Hant*[region]**
+
+`zh_Hant_[region]` should be only used for `TW`,`HK` and `MO`, and for these 3
+regions, the locale should have the script code `Hant`. For example, these are
+not allowed as the keys in our data:
+
+```
+zh_TW
+zh_HK
+zh_MO
+zh_Hant_SG
+```
+
+and these are allowed:
+
+```
+zh_Hant_TW
+zh_Hant_HK
+zh_Hant_MO
+```
+
 ### Language
 
 A language consists of a **language code** and a **script code**, but it should
@@ -103,5 +124,10 @@ Example:
 }
 ```
 
-See:  
+## Implementations
+
+See: https://github.com/hanlogy/dart_packages/tree/master/locale
+
+## Resources
+
 https://countrycode.org/
