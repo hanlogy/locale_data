@@ -8,7 +8,16 @@ describe('languages', () => {
 
     for (const key in languages) {
       expect(typeof key).toBe('string');
-      expect(typeof languages[key]).toBe('string');
+      expect(typeof languages[key]).toBe('object');
+      const keys = Object.keys(languages[key]);
+      expect(keys.includes('value')).toBe(true);
+      keys.forEach((key) => {
+        if (key === 'value') {
+          return;
+        }
+        expect(key.toUpperCase()).toBe(key);
+        expect(key.length).toBe(2);
+      });
     }
   });
 
