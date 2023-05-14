@@ -72,18 +72,28 @@ See:
 ### languages.json
 
 The key of each language item is the language code, optionally followed by the
-region code if needed.
+script code if needed and when the language is Chinese.
 
 Example:
 
 ```json
 {
-  "en": "English",
-  "zh": "简体中文",
-  "zh_Hant": "繁體中文",
-  "zh_Hant_TW": "正體中文",
-  "sv": "Svenska",
-  "de": "Deutsch"
+  "en": {
+    "value": "English"
+  },
+  "zh": {
+    "value": "简体中文"
+  },
+  "zh_Hant": {
+    "value": "繁體中文",
+    "TW": "正體中文"
+  },
+  "sv": {
+    "value": "Svenska"
+  },
+  "de": {
+    "value": "Deutsch"
+  }
 }
 ```
 
