@@ -14,5 +14,197 @@
   },
   "de": {
     "value": "Deutsch"
+  },
+  "es": {
+    "value": "Español"
+  },
+  "fr": {
+    "value": "Français"
+  },
+  "it": {
+    "value": "Italiano"
+  },
+  "pt": {
+    "value": "Português"
+  },
+  "ru": {
+    "value": "Русский"
+  },
+  "ja": {
+    "value": "日本語"
+  },
+  "ko": {
+    "value": "한국어"
+  },
+  "ar": {
+    "value": "العربية"
+  },
+  "hi": {
+    "value": "हिन्दी"
+  },
+  "bn": {
+    "value": "বাংলা"
+  },
+  "ur": {
+    "value": "اردو"
+  },
+  "fa": {
+    "value": "فارسی"
+  },
+  "tr": {
+    "value": "Türkçe"
+  },
+  "nl": {
+    "value": "Nederlands"
+  },
+  "pl": {
+    "value": "Polski"
+  },
+  "el": {
+    "value": "Ελληνικά"
+  },
+  "he": {
+    "value": "עברית"
+  },
+  "th": {
+    "value": "ไทย"
+  },
+  "vi": {
+    "value": "Tiếng Việt"
+  },
+  "id": {
+    "value": "Bahasa Indonesia"
+  },
+  "ms": {
+    "value": "Bahasa Melayu"
+  },
+  "tl": {
+    "value": "Tagalog"
+  },
+  "fi": {
+    "value": "Suomi"
+  },
+  "da": {
+    "value": "Dansk"
+  },
+  "no": {
+    "value": "Norsk"
+  },
+  "cs": {
+    "value": "Čeština"
+  },
+  "hu": {
+    "value": "Magyar"
+  },
+  "ro": {
+    "value": "Română"
+  },
+  "sk": {
+    "value": "Slovenčina"
+  },
+  "uk": {
+    "value": "Українська"
+  },
+  "bg": {
+    "value": "Български"
+  },
+  "sr": {
+    "value": "Српски"
+  },
+  "hr": {
+    "value": "Hrvatski"
+  },
+  "sl": {
+    "value": "Slovenščina"
+  },
+  "lt": {
+    "value": "Lietuvių"
+  },
+  "lv": {
+    "value": "Latviešu"
+  },
+  "et": {
+    "value": "Eesti"
+  },
+  "sq": {
+    "value": "Shqip"
+  },
+  "bs": {
+    "value": "Bosanski"
+  },
+  "mk": {
+    "value": "Македонски"
+  },
+  "is": {
+    "value": "Íslenska"
+  },
+  "mt": {
+    "value": "Malti"
+  },
+  "ga": {
+    "value": "Gaeilge"
+  },
+  "cy": {
+    "value": "Cymraeg"
+  },
+  "af": {
+    "value": "Afrikaans"
+  },
+  "sw": {
+    "value": "Kiswahili"
+  },
+  "zu": {
+    "value": "IsiZulu"
+  },
+  "xh": {
+    "value": "IsiXhosa"
+  },
+  "st": {
+    "value": "Sesotho"
+  },
+  "tn": {
+    "value": "Setswana"
+  },
+  "ss": {
+    "value": "Siswati"
+  },
+  "ve": {
+    "value": "Tshivenda"
+  },
+  "ts": {
+    "value": "Xitsonga"
+  },
+  "sn": {
+    "value": "ChiShona"
+  },
+  "nd": {
+    "value": "IsiNdebele"
+  },
+  "nr": {
+    "value": "IsiNdebele"
+  },
+  "rw": {
+    "value": "Kinyarwanda"
+  },
+  "am": {
+    "value": "አማርኛ"
+  },
+  "so": {
+    "value": "Soomaali"
+  },
+  "om": {
+    "value": "Oromoo"
+  },
+  "ti": {
+    "value": "ትግርኛ"
+  },
+  "ha": {
+    "value": "Hausa"
+  },
+  "yo": {
+    "value": "Yorùbá"
+  },
+  "ig": {
+    "value": "Igbo"
   }
 }
