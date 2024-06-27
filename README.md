@@ -1,9 +1,16 @@
-## Concepts
+## Implementation
 
-### Script Code
+You should follow Unicode BCP47 Locale Identifier, for example the valid locale
+code should be: `zh-Hans-CN`, see https://www.unicode.org/reports/tr35/ for more
+details.
 
-Script codes, such as `Hans` and `Hant`, are used only in Chinese languages.
-The script code should be combined with a two-letter language code, for example:
+## About the data structure
+
+### Script code shuold be combined with a two-letter language code
+
+Script codes, such as `Hans` and `Hant`, are used only in Chinese languages
+currently. The script code should be combined with a two-letter language code,
+for example:
 
 ```
 zh_Hant
@@ -12,14 +19,14 @@ zh_Hant
 **Abount `zh_Hans`**
 
 Since we use simplified Chinese as the default, `Hans` should not be used.
-Therefore, there is no `zh*Hans` or `zh_Hans_[region]`. For example, `zh_Hans`
+Therefore, there is no `zh_Hans` or `zh_Hans_[region]`. For example, `zh_Hans`
 should be referred to as `zh`, and `zh_Hans_SG` should be referred to as
 `zh_SG`.
 
 **Abount `zh_Hant_[region]`**
 
-`TW`,`HK` and `MO` must have the script code `Hant`, For example, these are
-not allowed as the keys in our data:
+`TW`,`HK` and `MO` must have the script code `Hant`, For example, these are not
+allowed as the keys in our data:
 
 ```
 zh_TW
@@ -53,19 +60,6 @@ A region code is composed of two capitalized letters, such as `CN`.
 
 See:  
 [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
-
-### Locale
-
-A locale consists of a language and a region, for example:
-
-```
-zh_CN // simplified Chinese with region code
-zh_Hant_HK // traditional Chinese with region code
-zh_Hant_TW
-```
-
-See:  
-[Flutter: Advanced locale definition](https://docs.flutter.dev/development/accessibility-and-localization/internationalization#advanced-locale-definition)
 
 ## Files
 
