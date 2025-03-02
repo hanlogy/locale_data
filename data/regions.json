@@ -4,280 +4,320 @@
       "en": "Afghanistan",
       "zh": "阿富汗"
     },
-    "calling_code": "93"
+    "calling_code": "93",
+    "languages": ["fa", "ps", "uz", "tk"]
   },
   "AL": {
     "l10n": {
       "en": "Albania",
       "zh": "阿尔巴尼亚"
     },
-    "calling_code": "355"
+    "calling_code": "355",
+    "languages": ["sq"]
   },
   "DZ": {
     "l10n": {
       "en": "Algeria",
       "zh": "阿尔及利亚"
     },
-    "calling_code": "213"
+    "calling_code": "213",
+    "languages": ["ar", "fr"]
   },
   "AS": {
     "l10n": {
       "en": "American Samoa",
       "zh": "美属萨摩亚"
     },
-    "calling_code": "1684"
+    "calling_code": "1684",
+    "languages": ["sm", "en"]
   },
   "AD": {
     "l10n": {
       "en": "Andorra",
       "zh": "安道尔"
     },
-    "calling_code": "376"
+    "calling_code": "376",
+    "languages": ["ca"]
   },
   "AO": {
     "l10n": {
       "en": "Angola",
       "zh": "安哥拉"
     },
-    "calling_code": "244"
+    "calling_code": "244",
+    "languages": ["pt"]
   },
   "AI": {
     "l10n": {
       "en": "Anguilla",
       "zh": "安圭拉"
     },
-    "calling_code": "1264"
+    "calling_code": "1264",
+    "languages": ["en"]
   },
   "AG": {
     "l10n": {
       "en": "Antigua and Barbuda",
       "zh": "安提瓜和巴布达"
     },
-    "calling_code": "1268"
+    "calling_code": "1268",
+    "languages": ["en"]
   },
   "AR": {
     "l10n": {
       "en": "Argentina",
       "zh": "阿根廷"
     },
-    "calling_code": "54"
+    "calling_code": "54",
+    "languages": ["es"]
   },
   "AM": {
     "l10n": {
       "en": "Armenia",
       "zh": "亚美尼亚"
     },
-    "calling_code": "374"
+    "calling_code": "374",
+    "languages": ["hy"]
   },
   "AW": {
     "l10n": {
       "en": "Aruba",
       "zh": "阿鲁巴"
     },
-    "calling_code": "297"
+    "calling_code": "297",
+    "languages": ["nl", "pap"]
   },
   "AU": {
     "l10n": {
       "en": "Australia",
       "zh": "澳大利亚"
     },
-    "calling_code": "61"
+    "calling_code": "61",
+    "languages": ["en"]
   },
   "AT": {
     "l10n": {
       "en": "Austria",
       "zh": "奥地利"
     },
-    "calling_code": "43"
+    "calling_code": "43",
+    "languages": ["de"]
   },
   "AZ": {
     "l10n": {
       "en": "Azerbaijan",
       "zh": "阿塞拜疆"
     },
-    "calling_code": "994"
+    "calling_code": "994",
+    "languages": ["az"]
   },
   "BS": {
     "l10n": {
       "en": "Bahamas",
       "zh": "巴哈马"
     },
-    "calling_code": "1242"
+    "calling_code": "1242",
+    "languages": ["en"]
   },
   "BH": {
     "l10n": {
       "en": "Bahrain",
       "zh": "巴林"
     },
-    "calling_code": "973"
+    "calling_code": "973",
+    "languages": ["ar"]
   },
   "BD": {
     "l10n": {
       "en": "Bangladesh",
       "zh": "孟加拉国"
     },
-    "calling_code": "880"
+    "calling_code": "880",
+    "languages": ["bn"]
   },
   "BB": {
     "l10n": {
       "en": "Barbados",
       "zh": "巴巴多斯"
     },
-    "calling_code": "1246"
+    "calling_code": "1246",
+    "languages": ["en"]
   },
   "BY": {
     "l10n": {
       "en": "Belarus",
       "zh": "白俄罗斯"
     },
-    "calling_code": "375"
+    "calling_code": "375",
+    "languages": ["be", "ru"]
   },
   "BE": {
     "l10n": {
       "en": "Belgium",
       "zh": "比利时"
     },
-    "calling_code": "32"
+    "calling_code": "32",
+    "languages": ["nl", "fr", "de"]
   },
   "BZ": {
     "l10n": {
       "en": "Belize",
       "zh": "伯利兹"
     },
-    "calling_code": "501"
+    "calling_code": "501",
+    "languages": ["en", "es"]
   },
   "BJ": {
     "l10n": {
       "en": "Benin",
       "zh": "贝宁"
     },
-    "calling_code": "229"
+    "calling_code": "229",
+    "languages": ["fr"]
   },
   "BM": {
     "l10n": {
       "en": "Bermuda",
       "zh": "百慕大"
     },
-    "calling_code": "1441"
+    "calling_code": "1441",
+    "languages": ["en"]
   },
   "BT": {
     "l10n": {
       "en": "Bhutan",
       "zh": "不丹"
     },
-    "calling_code": "975"
+    "calling_code": "975",
+    "languages": ["dz"]
   },
   "BO": {
     "l10n": {
       "en": "Bolivia",
       "zh": "玻利维亚"
     },
-    "calling_code": "591"
+    "calling_code": "591",
+    "languages": ["es", "qu", "ay"]
   },
   "BA": {
     "l10n": {
       "en": "Bosnia and Herzegovina",
       "zh": "波斯尼亚和黑塞哥维那"
     },
-    "calling_code": "387"
+    "calling_code": "387",
+    "languages": ["bs", "hr", "sr"]
   },
   "BW": {
     "l10n": {
       "en": "Botswana",
       "zh": "博茨瓦纳"
     },
-    "calling_code": "267"
+    "calling_code": "267",
+    "languages": ["en", "tn"]
   },
   "BR": {
     "l10n": {
       "en": "Brazil",
       "zh": "巴西"
     },
-    "calling_code": "55"
+    "calling_code": "55",
+    "languages": ["pt"]
   },
   "BN": {
     "l10n": {
       "en": "Brunei",
       "zh": "文莱"
     },
-    "calling_code": "673"
+    "calling_code": "673",
+    "languages": ["ms"]
   },
   "BG": {
     "l10n": {
       "en": "Bulgaria",
       "zh": "保加利亚"
     },
-    "calling_code": "359"
+    "calling_code": "359",
+    "languages": ["bg"]
   },
   "BF": {
     "l10n": {
       "en": "Burkina Faso",
       "zh": "布基纳法索"
     },
-    "calling_code": "226"
+    "calling_code": "226",
+    "languages": ["fr"]
   },
   "BI": {
     "l10n": {
       "en": "Burundi",
       "zh": "布隆迪"
     },
-    "calling_code": "257"
+    "calling_code": "257",
+    "languages": ["fr", "rn"]
   },
   "KH": {
     "l10n": {
       "en": "Cambodia",
       "zh": "柬埔寨"
     },
-    "calling_code": "855"
+    "calling_code": "855",
+    "languages": ["km"]
   },
   "CM": {
     "l10n": {
       "en": "Cameroon",
       "zh": "喀麦隆"
     },
-    "calling_code": "237"
+    "calling_code": "237",
+    "languages": ["fr", "en"]
   },
   "CA": {
     "l10n": {
       "en": "Canada",
       "zh": "加拿大"
     },
-    "calling_code": "1"
+    "calling_code": "1",
+    "languages": ["en", "fr"]
   },
   "CV": {
     "l10n": {
       "en": "Cape Verde",
       "zh": "佛得角"
     },
-    "calling_code": "238"
+    "calling_code": "238",
+    "languages": ["pt"]
   },
   "KY": {
     "l10n": {
       "en": "Cayman Islands",
       "zh": "开曼群岛"
     },
-    "calling_code": "1345"
+    "calling_code": "1345",
+    "languages": ["en"]
   },
   "CF": {
     "l10n": {
       "en": "Central African Republic",
       "zh": "中非共和国"
     },
-    "calling_code": "236"
+    "calling_code": "236",
+    "languages": ["fr", "sg"]
   },
   "TD": {
     "l10n": {
       "en": "Chad",
       "zh": "乍得"
     },
-    "calling_code": "235"
+    "calling_code": "235",
+    "languages": ["fr", "ar"]
   },
   "CL": {
     "l10n": {
       "en": "Chile",
       "zh": "智利"
     },
-    "calling_code": "56"
+    "calling_code": "56",
+    "languages": ["es"]
   },
   "CN": {
     "l10n": {
@@ -286,203 +326,232 @@
       "zh_Hant": "中國",
       "sv": "Kina"
     },
-    "calling_code": "86"
+    "calling_code": "86",
+    "languages": ["zh", "zh-Hant"]
   },
   "CO": {
     "l10n": {
       "en": "Colombia",
       "zh": "哥伦比亚"
     },
-    "calling_code": "57"
+    "calling_code": "57",
+    "languages": ["es"]
   },
   "KM": {
     "l10n": {
       "en": "Comoros",
       "zh": "科摩罗"
     },
-    "calling_code": "269"
+    "calling_code": "269",
+    "languages": ["ar", "fr", "sw"]
   },
   "CG": {
     "l10n": {
       "en": "Congo",
       "zh": "刚果"
     },
-    "calling_code": "242"
+    "calling_code": "242",
+    "languages": ["fr"]
   },
   "CD": {
     "l10n": {
       "en": "Congo, Democratic Republic of the",
       "zh": "刚果民主共和国"
     },
-    "calling_code": "243"
+    "calling_code": "243",
+    "languages": ["fr"]
   },
   "CK": {
     "l10n": {
       "en": "Cook Islands",
       "zh": "库克群岛"
     },
-    "calling_code": "682"
+    "calling_code": "682",
+    "languages": ["en", "rar"]
   },
   "CR": {
     "l10n": {
       "en": "Costa Rica",
       "zh": "哥斯达黎加"
     },
-    "calling_code": "506"
+    "calling_code": "506",
+    "languages": ["es"]
   },
   "CI": {
     "l10n": {
       "en": "Côte d'Ivoire",
       "zh": "科特迪瓦"
     },
-    "calling_code": "225"
+    "calling_code": "225",
+    "languages": ["fr"]
   },
   "HR": {
     "l10n": {
       "en": "Croatia",
       "zh": "克罗地亚"
     },
-    "calling_code": "385"
+    "calling_code": "385",
+    "languages": ["hr"]
   },
   "CU": {
     "l10n": {
       "en": "Cuba",
       "zh": "古巴"
     },
-    "calling_code": "53"
+    "calling_code": "53",
+    "languages": ["es"]
   },
   "CY": {
     "l10n": {
       "en": "Cyprus",
       "zh": "塞浦路斯"
     },
-    "calling_code": "357"
+    "calling_code": "357",
+    "languages": ["el", "tr"]
   },
   "CZ": {
     "l10n": {
       "en": "Czech Republic",
       "zh": "捷克"
     },
-    "calling_code": "420"
+    "calling_code": "420",
+    "languages": ["cs"]
   },
   "DK": {
     "l10n": {
       "en": "Denmark",
       "zh": "丹麦"
     },
-    "calling_code": "45"
+    "calling_code": "45",
+    "languages": ["da"]
   },
   "DJ": {
     "l10n": {
       "en": "Djibouti",
       "zh": "吉布提"
     },
-    "calling_code": "253"
+    "calling_code": "253",
+    "languages": ["fr", "ar"]
   },
   "DM": {
     "l10n": {
       "en": "Dominica",
       "zh": "多米尼加"
     },
-    "calling_code": "1767"
+    "calling_code": "1767",
+    "languages": ["en"]
   },
   "DO": {
     "l10n": {
       "en": "Dominican Republic",
       "zh": "多明尼加共和国"
     },
-    "calling_code": "1809"
+    "calling_code": "1809",
+    "languages": ["es"]
   },
   "EC": {
     "l10n": {
       "en": "Ecuador",
       "zh": "厄瓜多尔"
     },
-    "calling_code": "593"
+    "calling_code": "593",
+    "languages": ["es"]
   },
   "EG": {
     "l10n": {
       "en": "Egypt",
       "zh": "埃及"
     },
-    "calling_code": "20"
+    "calling_code": "20",
+    "languages": ["ar"]
   },
   "SV": {
     "l10n": {
       "en": "El Salvador",
       "zh": "萨尔瓦多"
     },
-    "calling_code": "503"
+    "calling_code": "503",
+    "languages": ["es"]
   },
   "GQ": {
     "l10n": {
       "en": "Equatorial Guinea",
       "zh": "赤道几内亚"
     },
-    "calling_code": "240"
+    "calling_code": "240",
+    "languages": ["es", "fr", "pt"]
   },
   "ER": {
     "l10n": {
       "en": "Eritrea",
       "zh": "厄立特里亚"
     },
-    "calling_code": "291"
+    "calling_code": "291",
+    "languages": ["ti", "ar", "en"]
   },
   "EE": {
     "l10n": {
       "en": "Estonia",
       "zh": "爱沙尼亚"
     },
-    "calling_code": "372"
+    "calling_code": "372",
+    "languages": ["et"]
   },
   "ET": {
     "l10n": {
       "en": "Ethiopia",
       "zh": "埃塞俄比亚"
     },
-    "calling_code": "251"
+    "calling_code": "251",
+    "languages": ["am"]
   },
   "FJ": {
     "l10n": {
       "en": "Fiji",
       "zh": "斐济"
     },
-    "calling_code": "679"
+    "calling_code": "679",
+    "languages": ["en", "fj", "hif"]
   },
   "FI": {
     "l10n": {
       "en": "Finland",
       "zh": "芬兰"
     },
-    "calling_code": "358"
+    "calling_code": "358",
+    "languages": ["fi", "sv"]
   },
   "FR": {
     "l10n": {
       "en": "France",
       "zh": "法国"
     },
-    "calling_code": "33"
+    "calling_code": "33",
+    "languages": ["fr"]
   },
   "GA": {
     "l10n": {
       "en": "Gabon",
       "zh": "加蓬"
     },
-    "calling_code": "241"
+    "calling_code": "241",
+    "languages": ["fr"]
   },
   "GM": {
     "l10n": {
       "en": "Gambia",
       "zh": "冈比亚"
     },
-    "calling_code": "220"
+    "calling_code": "220",
+    "languages": ["en"]
   },
   "GE": {
     "l10n": {
       "en": "Georgia",
       "zh": "格鲁吉亚"
     },
-    "calling_code": "995"
+    "calling_code": "995",
+    "languages": ["ka"]
   },
   "DE": {
     "l10n": {
@@ -492,217 +561,248 @@
       "sv": "Tyskland",
       "de": "Deutschland"
     },
-    "calling_code": "49"
+    "calling_code": "49",
+    "languages": ["de"]
   },
   "GH": {
     "l10n": {
       "en": "Ghana",
       "zh": "加纳"
     },
-    "calling_code": "233"
+    "calling_code": "233",
+    "languages": ["en"]
   },
   "GR": {
     "l10n": {
       "en": "Greece",
       "zh": "希腊"
     },
-    "calling_code": "30"
+    "calling_code": "30",
+    "languages": ["el"]
   },
   "GD": {
     "l10n": {
       "en": "Grenada",
       "zh": "格林纳达"
     },
-    "calling_code": "1473"
+    "calling_code": "1473",
+    "languages": ["en"]
   },
   "GU": {
     "l10n": {
       "en": "Guam",
       "zh": "关岛"
     },
-    "calling_code": "1671"
+    "calling_code": "1671",
+    "languages": ["en"]
   },
   "GT": {
     "l10n": {
       "en": "Guatemala",
       "zh": "危地马拉"
     },
-    "calling_code": "502"
+    "calling_code": "502",
+    "languages": ["es"]
   },
   "GN": {
     "l10n": {
       "en": "Guinea",
       "zh": "几内亚"
     },
-    "calling_code": "224"
+    "calling_code": "224",
+    "languages": ["fr"]
   },
   "GW": {
     "l10n": {
       "en": "Guinea-Bissau",
       "zh": "几内亚比绍"
     },
-    "calling_code": "245"
+    "calling_code": "245",
+    "languages": ["pt"]
   },
   "GY": {
     "l10n": {
       "en": "Guyana",
       "zh": "圭亚那"
     },
-    "calling_code": "592"
+    "calling_code": "592",
+    "languages": ["en"]
   },
   "HT": {
     "l10n": {
       "en": "Haiti",
       "zh": "海地"
     },
-    "calling_code": "509"
+    "calling_code": "509",
+    "languages": ["fr", "ht"]
   },
   "HN": {
     "l10n": {
       "en": "Honduras",
       "zh": "洪都拉斯"
     },
-    "calling_code": "504"
+    "calling_code": "504",
+    "languages": ["es"]
   },
   "HK": {
     "l10n": {
       "en": "Hong Kong",
       "zh": "香港"
     },
-    "calling_code": "852"
+    "calling_code": "852",
+    "languages": ["zh", "en"]
   },
   "HU": {
     "l10n": {
       "en": "Hungary",
       "zh": "匈牙利"
     },
-    "calling_code": "36"
+    "calling_code": "36",
+    "languages": ["hu"]
   },
   "IS": {
     "l10n": {
       "en": "Iceland",
       "zh": "冰岛"
     },
-    "calling_code": "354"
+    "calling_code": "354",
+    "languages": ["is"]
   },
   "IN": {
     "l10n": {
       "en": "India",
       "zh": "印度"
     },
-    "calling_code": "91"
+    "calling_code": "91",
+    "languages": ["hi", "en"]
   },
   "ID": {
     "l10n": {
       "en": "Indonesia",
       "zh": "印度尼西亚"
     },
-    "calling_code": "62"
+    "calling_code": "62",
+    "languages": ["id"]
   },
   "IR": {
     "l10n": {
       "en": "Iran",
       "zh": "伊朗"
     },
-    "calling_code": "98"
+    "calling_code": "98",
+    "languages": ["fa"]
   },
   "IQ": {
     "l10n": {
       "en": "Iraq",
       "zh": "伊拉克"
     },
-    "calling_code": "964"
+    "calling_code": "964",
+    "languages": ["ar", "ku"]
   },
   "IE": {
     "l10n": {
       "en": "Ireland",
       "zh": "爱尔兰"
     },
-    "calling_code": "353"
+    "calling_code": "353",
+    "languages": ["en", "ga"]
   },
   "IL": {
     "l10n": {
       "en": "Israel",
       "zh": "以色列"
     },
-    "calling_code": "972"
+    "calling_code": "972",
+    "languages": ["he", "ar"]
   },
   "IT": {
     "l10n": {
       "en": "Italy",
       "zh": "意大利"
     },
-    "calling_code": "39"
+    "calling_code": "39",
+    "languages": ["it"]
   },
   "JM": {
     "l10n": {
       "en": "Jamaica",
       "zh": "牙买加"
     },
-    "calling_code": "1876"
+    "calling_code": "1876",
+    "languages": ["en"]
   },
   "JP": {
     "l10n": {
       "en": "Japan",
       "zh": "日本"
     },
-    "calling_code": "81"
+    "calling_code": "81",
+    "languages": ["ja"]
   },
   "JO": {
     "l10n": {
       "en": "Jordan",
       "zh": "约旦"
     },
-    "calling_code": "962"
+    "calling_code": "962",
+    "languages": ["ar"]
   },
   "KZ": {
     "l10n": {
       "en": "Kazakhstan",
       "zh": "哈萨克斯坦"
     },
-    "calling_code": "7"
+    "calling_code": "7",
+    "languages": ["kk", "ru"]
   },
   "KE": {
     "l10n": {
       "en": "Kenya",
       "zh": "肯尼亚"
     },
-    "calling_code": "254"
+    "calling_code": "254",
+    "languages": ["sw", "en"]
   },
   "KI": {
     "l10n": {
       "en": "Kiribati",
       "zh": "基里巴斯"
     },
-    "calling_code": "686"
+    "calling_code": "686",
+    "languages": ["en"]
   },
   "KP": {
     "l10n": {
       "en": "North Korea",
       "zh": "朝鲜"
     },
-    "calling_code": "850"
+    "calling_code": "850",
+    "languages": ["en"]
   },
   "KR": {
     "l10n": {
       "en": "South Korea",
       "zh": "韩国"
     },
-    "calling_code": "82"
+    "calling_code": "82",
+    "languages": ["ko"]
   },
   "KW": {
     "l10n": {
       "en": "Kuwait",
       "zh": "科威特"
     },
-    "calling_code": "965"
+    "calling_code": "965",
+    "languages": ["en"]
   },
   "KG": {
     "l10n": {
       "en": "Kyrgyzstan",
       "zh": "吉尔吉斯斯坦"
     },
-    "calling_code": "996"
+    "calling_code": "996",
+    "languages": ["en"]
   },
   "LA": {
     "l10n": {
@@ -712,532 +812,608 @@
       "zh_Hant": "老撾",
       "zh_Hant_TW": "寮國"
     },
-    "calling_code": "856"
+    "calling_code": "856",
+    "languages": ["en"]
   },
   "LV": {
     "l10n": {
       "en": "Latvia",
       "zh": "拉脱维亚"
     },
-    "calling_code": "371"
+    "calling_code": "371",
+    "languages": ["en"]
   },
   "LB": {
     "l10n": {
       "en": "Lebanon",
       "zh": "黎巴嫩"
     },
-    "calling_code": "961"
+    "calling_code": "961",
+    "languages": ["en"]
   },
   "LS": {
     "l10n": {
       "en": "Lesotho",
       "zh": "莱索托"
     },
-    "calling_code": "266"
+    "calling_code": "266",
+    "languages": ["en"]
   },
   "LR": {
     "l10n": {
       "en": "Liberia",
       "zh": "利比里亚"
     },
-    "calling_code": "231"
+    "calling_code": "231",
+    "languages": ["en"]
   },
   "LY": {
     "l10n": {
       "en": "Libya",
       "zh": "利比亚"
     },
-    "calling_code": "218"
+    "calling_code": "218",
+    "languages": ["en"]
   },
   "LI": {
     "l10n": {
       "en": "Liechtenstein",
       "zh": "列支敦士登"
     },
-    "calling_code": "423"
+    "calling_code": "423",
+    "languages": ["en"]
   },
   "LT": {
     "l10n": {
       "en": "Lithuania",
       "zh": "立陶宛"
     },
-    "calling_code": "370"
+    "calling_code": "370",
+    "languages": ["en"]
   },
   "LU": {
     "l10n": {
       "en": "Luxembourg",
       "zh": "卢森堡"
     },
-    "calling_code": "352"
+    "calling_code": "352",
+    "languages": ["en"]
   },
   "MO": {
     "l10n": {
       "en": "Macau",
       "zh": "澳门"
     },
-    "calling_code": "853"
+    "calling_code": "853",
+    "languages": ["en"]
   },
   "MK": {
     "l10n": {
       "en": "North Macedonia",
       "zh": "北马其顿"
     },
-    "calling_code": "389"
+    "calling_code": "389",
+    "languages": ["en"]
   },
   "MG": {
     "l10n": {
       "en": "Madagascar",
       "zh": "马达加斯加"
     },
-    "calling_code": "261"
+    "calling_code": "261",
+    "languages": ["en"]
   },
   "MW": {
     "l10n": {
       "en": "Malawi",
       "zh": "马拉维"
     },
-    "calling_code": "265"
+    "calling_code": "265",
+    "languages": ["en"]
   },
   "MY": {
     "l10n": {
       "en": "Malaysia",
       "zh": "马来西亚"
     },
-    "calling_code": "60"
+    "calling_code": "60",
+    "languages": ["en"]
   },
   "MV": {
     "l10n": {
       "en": "Maldives",
       "zh": "马尔代夫"
     },
-    "calling_code": "960"
+    "calling_code": "960",
+    "languages": ["en"]
   },
   "ML": {
     "l10n": {
       "en": "Mali",
       "zh": "马里"
     },
-    "calling_code": "223"
+    "calling_code": "223",
+    "languages": ["en"]
   },
   "MT": {
     "l10n": {
       "en": "Malta",
       "zh": "马耳他"
     },
-    "calling_code": "356"
+    "calling_code": "356",
+    "languages": ["en"]
   },
   "MH": {
     "l10n": {
       "en": "Marshall Islands",
       "zh": "马绍尔群岛"
     },
-    "calling_code": "692"
+    "calling_code": "692",
+    "languages": ["en"]
   },
   "MR": {
     "l10n": {
       "en": "Mauritania",
       "zh": "毛里塔尼亚"
     },
-    "calling_code": "222"
+    "calling_code": "222",
+    "languages": ["en"]
   },
   "MU": {
     "l10n": {
       "en": "Mauritius",
       "zh": "毛里求斯"
     },
-    "calling_code": "230"
+    "calling_code": "230",
+    "languages": ["en"]
   },
   "MX": {
     "l10n": {
       "en": "Mexico",
       "zh": "墨西哥"
     },
-    "calling_code": "52"
+    "calling_code": "52",
+    "languages": ["en"]
   },
   "FM": {
     "l10n": {
       "en": "Micronesia",
       "zh": "密克罗尼西亚"
     },
-    "calling_code": "691"
+    "calling_code": "691",
+    "languages": ["en"]
   },
   "MD": {
     "l10n": {
       "en": "Moldova",
       "zh": "摩尔多瓦"
     },
-    "calling_code": "373"
+    "calling_code": "373",
+    "languages": ["en"]
   },
   "MC": {
     "l10n": {
       "en": "Monaco",
       "zh": "摩纳哥"
     },
-    "calling_code": "377"
+    "calling_code": "377",
+    "languages": ["en"]
   },
   "MN": {
     "l10n": {
       "en": "Mongolia",
       "zh": "蒙古"
     },
-    "calling_code": "976"
+    "calling_code": "976",
+    "languages": ["en"]
   },
   "ME": {
     "l10n": {
       "en": "Montenegro",
       "zh": "黑山"
     },
-    "calling_code": "382"
+    "calling_code": "382",
+    "languages": ["en"]
   },
   "MA": {
     "l10n": {
       "en": "Morocco",
       "zh": "摩洛哥"
     },
-    "calling_code": "212"
+    "calling_code": "212",
+    "languages": ["en"]
   },
   "MZ": {
     "l10n": {
       "en": "Mozambique",
       "zh": "莫桑比克"
     },
-    "calling_code": "258"
+    "calling_code": "258",
+    "languages": ["en"]
   },
   "MM": {
     "l10n": {
       "en": "Myanmar",
       "zh": "缅甸"
     },
-    "calling_code": "95"
+    "calling_code": "95",
+    "languages": ["en"]
   },
   "NA": {
     "l10n": {
       "en": "Namibia",
       "zh": "纳米比亚"
     },
-    "calling_code": "264"
+    "calling_code": "264",
+    "languages": ["en"]
   },
   "NR": {
     "l10n": {
       "en": "Nauru",
       "zh": "瑙鲁"
     },
-    "calling_code": "674"
+    "calling_code": "674",
+    "languages": ["en"]
   },
   "NP": {
     "l10n": {
       "en": "Nepal",
       "zh": "尼泊尔"
     },
-    "calling_code": "977"
+    "calling_code": "977",
+    "languages": ["en"]
   },
   "NL": {
     "l10n": {
       "en": "Netherlands",
       "zh": "荷兰"
     },
-    "calling_code": "31"
+    "calling_code": "31",
+    "languages": ["en"]
   },
   "NZ": {
     "l10n": {
       "en": "New Zealand",
       "zh": "新西兰"
     },
-    "calling_code": "64"
+    "calling_code": "64",
+    "languages": ["en"]
   },
   "NI": {
     "l10n": {
       "en": "Nicaragua",
       "zh": "尼加拉瓜"
     },
-    "calling_code": "505"
+    "calling_code": "505",
+    "languages": ["en"]
   },
   "NE": {
     "l10n": {
       "en": "Niger",
       "zh": "尼日尔"
     },
-    "calling_code": "227"
+    "calling_code": "227",
+    "languages": ["en"]
   },
   "NG": {
     "l10n": {
       "en": "Nigeria",
       "zh": "尼日利亚"
     },
-    "calling_code": "234"
+    "calling_code": "234",
+    "languages": ["en"]
   },
   "NO": {
     "l10n": {
       "en": "Norway",
       "zh": "挪威"
     },
-    "calling_code": "47"
+    "calling_code": "47",
+    "languages": ["no", "nb", "nn"]
   },
   "OM": {
     "l10n": {
       "en": "Oman",
       "zh": "阿曼"
     },
-    "calling_code": "968"
+    "calling_code": "968",
+    "languages": ["en"]
   },
   "PK": {
     "l10n": {
       "en": "Pakistan",
       "zh": "巴基斯坦"
     },
-    "calling_code": "92"
+    "calling_code": "92",
+    "languages": ["en"]
   },
   "PW": {
     "l10n": {
       "en": "Palau",
       "zh": "帕劳"
     },
-    "calling_code": "680"
+    "calling_code": "680",
+    "languages": ["en"]
   },
   "PS": {
     "l10n": {
       "en": "Palestine",
       "zh": "巴勒斯坦"
     },
-    "calling_code": "970"
+    "calling_code": "970",
+    "languages": ["en"]
   },
   "PA": {
     "l10n": {
       "en": "Panama",
       "zh": "巴拿马"
     },
-    "calling_code": "507"
+    "calling_code": "507",
+    "languages": ["en"]
   },
   "PG": {
     "l10n": {
       "en": "Papua New Guinea",
       "zh": "巴布亚新几内亚"
     },
-    "calling_code": "675"
+    "calling_code": "675",
+    "languages": ["en"]
   },
   "PY": {
     "l10n": {
       "en": "Paraguay",
       "zh": "巴拉圭"
     },
-    "calling_code": "595"
+    "calling_code": "595",
+    "languages": ["en"]
   },
   "PE": {
     "l10n": {
       "en": "Peru",
       "zh": "秘鲁"
     },
-    "calling_code": "51"
+    "calling_code": "51",
+    "languages": ["en"]
   },
   "PH": {
     "l10n": {
       "en": "Philippines",
       "zh": "菲律宾"
     },
-    "calling_code": "63"
+    "calling_code": "63",
+    "languages": ["en"]
   },
   "PL": {
     "l10n": {
       "en": "Poland",
       "zh": "波兰"
     },
-    "calling_code": "48"
+    "calling_code": "48",
+    "languages": ["en"]
   },
   "PT": {
     "l10n": {
       "en": "Portugal",
       "zh": "葡萄牙"
     },
-    "calling_code": "351"
+    "calling_code": "351",
+    "languages": ["pt"]
   },
   "QA": {
     "l10n": {
       "en": "Qatar",
       "zh": "卡塔尔"
     },
-    "calling_code": "974"
+    "calling_code": "974",
+    "languages": ["en"]
   },
   "RO": {
     "l10n": {
       "en": "Romania",
       "zh": "罗马尼亚"
     },
-    "calling_code": "40"
+    "calling_code": "40",
+    "languages": ["en"]
   },
   "RU": {
     "l10n": {
       "en": "Russia",
       "zh": "俄罗斯"
     },
-    "calling_code": "7"
+    "calling_code": "7",
+    "languages": ["ru"]
   },
   "RW": {
     "l10n": {
       "en": "Rwanda",
       "zh": "卢旺达"
     },
-    "calling_code": "250"
+    "calling_code": "250",
+    "languages": ["en"]
   },
   "KN": {
     "l10n": {
       "en": "Saint Kitts and Nevis",
       "zh": "圣基茨和尼维斯"
     },
-    "calling_code": "1869"
+    "calling_code": "1869",
+    "languages": ["en"]
   },
   "LC": {
     "l10n": {
       "en": "Saint Lucia",
       "zh": "圣卢西亚"
     },
-    "calling_code": "1758"
+    "calling_code": "1758",
+    "languages": ["en"]
   },
   "VC": {
     "l10n": {
       "en": "Saint Vincent and the Grenadines",
       "zh": "圣文森特和格林纳丁斯"
     },
-    "calling_code": "1784"
+    "calling_code": "1784",
+    "languages": ["en"]
   },
   "WS": {
     "l10n": {
       "en": "Samoa",
       "zh": "萨摩亚"
     },
-    "calling_code": "685"
+    "calling_code": "685",
+    "languages": ["en"]
   },
   "SM": {
     "l10n": {
       "en": "San Marino",
       "zh": "圣马力诺"
     },
-    "calling_code": "378"
+    "calling_code": "378",
+    "languages": ["en"]
   },
   "ST": {
     "l10n": {
       "en": "Sao Tome and Principe",
       "zh": "圣多美和普林西比"
     },
-    "calling_code": "239"
+    "calling_code": "239",
+    "languages": ["en"]
   },
   "SA": {
     "l10n": {
       "en": "Saudi Arabia",
       "zh": "沙特阿拉伯"
     },
-    "calling_code": "966"
+    "calling_code": "966",
+    "languages": ["en"]
   },
   "SN": {
     "l10n": {
       "en": "Senegal",
       "zh": "塞内加尔"
     },
-    "calling_code": "221"
+    "calling_code": "221",
+    "languages": ["en"]
   },
   "RS": {
     "l10n": {
       "en": "Serbia",
       "zh": "塞尔维亚"
     },
-    "calling_code": "381"
+    "calling_code": "381",
+    "languages": ["en"]
   },
   "SC": {
     "l10n": {
       "en": "Seychelles",
       "zh": "塞舌尔"
     },
-    "calling_code": "248"
+    "calling_code": "248",
+    "languages": ["en"]
   },
   "SL": {
     "l10n": {
       "en": "Sierra Leone",
       "zh": "塞拉利昂"
     },
-    "calling_code": "232"
+    "calling_code": "232",
+    "languages": ["en"]
   },
   "SG": {
     "l10n": {
       "en": "Singapore",
       "zh": "新加坡"
     },
-    "calling_code": "65"
+    "calling_code": "65",
+    "languages": ["en"]
   },
   "SK": {
     "l10n": {
       "en": "Slovakia",
       "zh": "斯洛伐克"
     },
-    "calling_code": "421"
+    "calling_code": "421",
+    "languages": ["en"]
   },
   "SI": {
     "l10n": {
       "en": "Slovenia",
       "zh": "斯洛文尼亚"
     },
-    "calling_code": "386"
+    "calling_code": "386",
+    "languages": ["en"]
   },
   "SB": {
     "l10n": {
       "en": "Solomon Islands",
       "zh": "所罗门群岛"
     },
-    "calling_code": "677"
+    "calling_code": "677",
+    "languages": ["en"]
   },
   "SO": {
     "l10n": {
       "en": "Somalia",
       "zh": "索马里"
     },
-    "calling_code": "252"
+    "calling_code": "252",
+    "languages": ["en"]
   },
   "ZA": {
     "l10n": {
       "en": "South Africa",
       "zh": "南非"
     },
-    "calling_code": "27"
+    "calling_code": "27",
+    "languages": ["en"]
   },
   "SS": {
     "l10n": {
       "en": "South Sudan",
       "zh": "南苏丹"
     },
-    "calling_code": "211"
+    "calling_code": "211",
+    "languages": ["en"]
   },
   "ES": {
     "l10n": {
       "en": "Spain",
       "zh": "西班牙"
     },
-    "calling_code": "34"
+    "calling_code": "34",
+    "languages": ["es"]
   },
   "LK": {
     "l10n": {
       "en": "Sri Lanka",
       "zh": "斯里兰卡"
     },
-    "calling_code": "94"
+    "calling_code": "94",
+    "languages": ["en"]
   },
   "SD": {
     "l10n": {
       "en": "Sudan",
       "zh": "苏丹"
     },
-    "calling_code": "249"
+    "calling_code": "249",
+    "languages": ["en"]
   },
   "SR": {
     "l10n": {
       "en": "Suriname",
       "zh": "苏里南"
     },
-    "calling_code": "597"
+    "calling_code": "597",
+    "languages": ["en"]
   },
   "SZ": {
     "l10n": {
       "en": "Eswatini",
       "zh": "斯威士兰"
     },
-    "calling_code": "268"
+    "calling_code": "268",
+    "languages": ["en"]
   },
   "SE": {
     "l10n": {
@@ -1245,21 +1421,24 @@
       "zh": "瑞典",
       "sv": "Sverige"
     },
-    "calling_code": "46"
+    "calling_code": "46",
+    "languages": ["sv"]
   },
   "CH": {
     "l10n": {
       "en": "Switzerland",
       "zh": "瑞士"
     },
-    "calling_code": "41"
+    "calling_code": "41",
+    "languages": ["de", "fr", "it", "rm"]
   },
   "SY": {
     "l10n": {
       "en": "Syria",
       "zh": "叙利亚"
     },
-    "calling_code": "963"
+    "calling_code": "963",
+    "languages": ["en"]
   },
   "TW": {
     "l10n": {
@@ -1267,105 +1446,120 @@
       "zh": "台湾",
       "zh_Hant": "台灣"
     },
-    "calling_code": "886"
+    "calling_code": "886",
+    "languages": ["en"]
   },
   "TJ": {
     "l10n": {
       "en": "Tajikistan",
       "zh": "塔吉克斯坦"
     },
-    "calling_code": "992"
+    "calling_code": "992",
+    "languages": ["en"]
   },
   "TZ": {
     "l10n": {
       "en": "Tanzania",
       "zh": "坦桑尼亚"
     },
-    "calling_code": "255"
+    "calling_code": "255",
+    "languages": ["en"]
   },
   "TH": {
     "l10n": {
       "en": "Thailand",
       "zh": "泰国"
     },
-    "calling_code": "66"
+    "calling_code": "66",
+    "languages": ["en"]
   },
   "TL": {
     "l10n": {
       "en": "Timor-Leste",
       "zh": "东帝汶"
     },
-    "calling_code": "670"
+    "calling_code": "670",
+    "languages": ["en"]
   },
   "TG": {
     "l10n": {
       "en": "Togo",
       "zh": "多哥"
     },
-    "calling_code": "228"
+    "calling_code": "228",
+    "languages": ["en"]
   },
   "TO": {
     "l10n": {
       "en": "Tonga",
       "zh": "汤加"
     },
-    "calling_code": "676"
+    "calling_code": "676",
+    "languages": ["en"]
   },
   "TT": {
     "l10n": {
       "en": "Trinidad and Tobago",
       "zh": "特立尼达和多巴哥"
     },
-    "calling_code": "1868"
+    "calling_code": "1868",
+    "languages": ["en"]
   },
   "TN": {
     "l10n": {
       "en": "Tunisia",
       "zh": "突尼斯"
     },
-    "calling_code": "216"
+    "calling_code": "216",
+    "languages": ["en"]
   },
   "TR": {
     "l10n": {
       "en": "Turkey",
       "zh": "土耳其"
     },
-    "calling_code": "90"
+    "calling_code": "90",
+    "languages": ["en"]
   },
   "TM": {
     "l10n": {
       "en": "Turkmenistan",
       "zh": "土库曼斯坦"
     },
-    "calling_code": "993"
+    "calling_code": "993",
+    "languages": ["en"]
   },
   "TV": {
     "l10n": {
       "en": "Tuvalu",
       "zh": "图瓦卢"
     },
-    "calling_code": "688"
+    "calling_code": "688",
+    "languages": ["en"]
   },
   "UG": {
     "l10n": {
       "en": "Uganda",
       "zh": "乌干达"
     },
-    "calling_code": "256"
+    "calling_code": "256",
+    "languages": ["en"]
   },
   "UA": {
     "l10n": {
       "en": "Ukraine",
       "zh": "乌克兰"
     },
-    "calling_code": "380"
+    "calling_code": "380",
+    "languages": ["en"]
   },
   "AE": {
     "l10n": {
       "en": "United Arab Emirates",
       "zh": "阿联酋"
     },
-    "calling_code": "971"
+    "calling_code": "971",
+    "languages": ["en"]
   },
   "UK": {
     "l10n": {
@@ -1375,7 +1569,8 @@
       "sv": "Storbritannien",
       "de": "Vereinigtes Königreich"
     },
-    "calling_code": "44"
+    "calling_code": "44",
+    "languages": ["en"]
   },
   "US": {
     "l10n": {
@@ -1385,62 +1580,71 @@
       "sv": "Förenta staterna",
       "de": "Vereinigte Staaten"
     },
-    "calling_code": "1"
+    "calling_code": "1",
+    "languages": ["en"]
   },
   "UY": {
     "l10n": {
       "en": "Uruguay",
       "zh": "乌拉圭"
     },
-    "calling_code": "598"
+    "calling_code": "598",
+    "languages": ["es"]
   },
   "UZ": {
     "l10n": {
       "en": "Uzbekistan",
       "zh": "乌兹别克斯坦"
     },
-    "calling_code": "998"
+    "calling_code": "998",
+    "languages": ["uz", "ru"]
   },
   "VU": {
     "l10n": {
       "en": "Vanuatu",
       "zh": "瓦努阿图"
     },
-    "calling_code": "678"
+    "calling_code": "678",
+    "languages": ["en"]
   },
   "VE": {
     "l10n": {
       "en": "Venezuela",
       "zh": "委内瑞拉"
     },
-    "calling_code": "58"
+    "calling_code": "58",
+    "languages": ["en"]
   },
   "VN": {
     "l10n": {
       "en": "Vietnam",
       "zh": "越南"
     },
-    "calling_code": "84"
+    "calling_code": "84",
+    "languages": ["vi"]
   },
   "YE": {
     "l10n": {
       "en": "Yemen",
       "zh": "也门"
     },
-    "calling_code": "967"
+    "calling_code": "967",
+    "languages": ["en"]
   },
   "ZM": {
     "l10n": {
       "en": "Zambia",
       "zh": "赞比亚"
     },
-    "calling_code": "260"
+    "calling_code": "260",
+    "languages": ["en", "bem", "ny"]
   },
   "ZW": {
     "l10n": {
       "en": "Zimbabwe",
       "zh": "津巴布韦"
     },
-    "calling_code": "263"
+    "calling_code": "263",
+    "languages": ["en", "sn", "nd"]
   }
 }
