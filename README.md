@@ -130,4 +130,4 @@ See: https://github.com/hanlogy/dart_packages/tree/master/locale
 
 ## Resources
 
-https://countrycode.org/
+https://en.wikipedia.org/wiki/ISO_3166-1

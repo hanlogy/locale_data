@@ -7,6 +7,14 @@
     "calling_code": "93",
     "languages": ["fa", "ps", "uz", "tk"]
   },
+  "AX": {
+    "l10n": {
+      "en": "Åland Islands",
+      "zh": "奥兰群岛"
+    },
+    "calling_code": "35818",
+    "languages": ["sv"]
+  },
   "AL": {
     "l10n": {
       "en": "Albania",
@@ -53,6 +61,14 @@
       "zh": "安圭拉"
     },
     "calling_code": "1264",
+    "languages": ["en"]
+  },
+  "AQ": {
+    "l10n": {
+      "en": "Antarctica",
+      "zh": "南极洲"
+    },
+    "calling_code": "672",
     "languages": ["en"]
   },
   "AG": {
@@ -199,6 +215,14 @@
     "calling_code": "591",
     "languages": ["es", "qu", "ay"]
   },
+  "BQ": {
+    "l10n": {
+      "en": "Bonaire, Sint Eustatius and Saba",
+      "zh": "荷属加勒比区"
+    },
+    "calling_code": "599",
+    "languages": ["nl", "pap", "en"]
+  },
   "BA": {
     "l10n": {
       "en": "Bosnia and Herzegovina",
@@ -215,6 +239,14 @@
     "calling_code": "267",
     "languages": ["en", "tn"]
   },
+  "BV": {
+    "l10n": {
+      "en": "Bouvet Island",
+      "zh": "布韦岛"
+    },
+    "calling_code": "47",
+    "languages": ["no"]
+  },
   "BR": {
     "l10n": {
       "en": "Brazil",
@@ -222,6 +254,14 @@
     },
     "calling_code": "55",
     "languages": ["pt"]
+  },
+  "IO": {
+    "l10n": {
+      "en": "British Indian Ocean Territory",
+      "zh": "英属印度洋领地"
+    },
+    "calling_code": "246",
+    "languages": ["en"]
   },
   "BN": {
     "l10n": {
@@ -255,6 +295,14 @@
     "calling_code": "257",
     "languages": ["fr", "rn"]
   },
+  "CV": {
+    "l10n": {
+      "en": "Cape Verde",
+      "zh": "佛得角"
+    },
+    "calling_code": "238",
+    "languages": ["pt"]
+  },
   "KH": {
     "l10n": {
       "en": "Cambodia",
@@ -278,14 +326,6 @@
     },
     "calling_code": "1",
     "languages": ["en", "fr"]
-  },
-  "CV": {
-    "l10n": {
-      "en": "Cape Verde",
-      "zh": "佛得角"
-    },
-    "calling_code": "238",
-    "languages": ["pt"]
   },
   "KY": {
     "l10n": {
@@ -328,6 +368,22 @@
     },
     "calling_code": "86",
     "languages": ["zh", "zh-Hant"]
+  },
+  "CX": {
+    "l10n": {
+      "en": "Christmas Island",
+      "zh": "圣诞岛"
+    },
+    "calling_code": "61",
+    "languages": ["en"]
+  },
+  "CC": {
+    "l10n": {
+      "en": "Cocos (Keeling) Islands",
+      "zh": "科科斯（基林）群岛"
+    },
+    "calling_code": "61",
+    "languages": ["en"]
   },
   "CO": {
     "l10n": {
@@ -400,6 +456,14 @@
     },
     "calling_code": "53",
     "languages": ["es"]
+  },
+  "CW": {
+    "l10n": {
+      "en": "Curaçao",
+      "zh": "库拉索"
+    },
+    "calling_code": "599",
+    "languages": ["nl", "pap", "en"]
   },
   "CY": {
     "l10n": {
@@ -497,6 +561,14 @@
     "calling_code": "372",
     "languages": ["et"]
   },
+  "SZ": {
+    "l10n": {
+      "en": "Eswatini",
+      "zh": "斯威士兰"
+    },
+    "calling_code": "268",
+    "languages": ["en"]
+  },
   "ET": {
     "l10n": {
       "en": "Ethiopia",
@@ -504,6 +576,22 @@
     },
     "calling_code": "251",
     "languages": ["am"]
+  },
+  "FK": {
+    "l10n": {
+      "en": "Falkland Islands (Malvinas)",
+      "zh": "福克兰群岛"
+    },
+    "calling_code": "500",
+    "languages": ["en"]
+  },
+  "FO": {
+    "l10n": {
+      "en": "Faroe Islands",
+      "zh": "法罗群岛"
+    },
+    "calling_code": "298",
+    "languages": ["fo"]
   },
   "FJ": {
     "l10n": {
@@ -527,6 +615,30 @@
       "zh": "法国"
     },
     "calling_code": "33",
+    "languages": ["fr"]
+  },
+  "GF": {
+    "l10n": {
+      "en": "French Guiana",
+      "zh": "法属圭亚那"
+    },
+    "calling_code": "594",
+    "languages": ["fr"]
+  },
+  "PF": {
+    "l10n": {
+      "en": "French Polynesia",
+      "zh": "法属波利尼西亚"
+    },
+    "calling_code": "689",
+    "languages": ["fr"]
+  },
+  "TF": {
+    "l10n": {
+      "en": "French Southern Territories",
+      "zh": "法属南部领地"
+    },
+    "calling_code": "262",
     "languages": ["fr"]
   },
   "GA": {
@@ -572,6 +684,14 @@
     "calling_code": "233",
     "languages": ["en"]
   },
+  "GI": {
+    "l10n": {
+      "en": "Gibraltar",
+      "zh": "直布罗陀"
+    },
+    "calling_code": "350",
+    "languages": ["en"]
+  },
   "GR": {
     "l10n": {
       "en": "Greece",
@@ -580,6 +700,14 @@
     "calling_code": "30",
     "languages": ["el"]
   },
+  "GL": {
+    "l10n": {
+      "en": "Greenland",
+      "zh": "格陵兰"
+    },
+    "calling_code": "299",
+    "languages": ["kl"]
+  },
   "GD": {
     "l10n": {
       "en": "Grenada",
@@ -587,6 +715,14 @@
     },
     "calling_code": "1473",
     "languages": ["en"]
+  },
+  "GP": {
+    "l10n": {
+      "en": "Guadeloupe",
+      "zh": "瓜德罗普"
+    },
+    "calling_code": "590",
+    "languages": ["fr"]
   },
   "GU": {
     "l10n": {
@@ -603,6 +739,14 @@
     },
     "calling_code": "502",
     "languages": ["es"]
+  },
+  "GG": {
+    "l10n": {
+      "en": "Guernsey",
+      "zh": "根西岛"
+    },
+    "calling_code": "44",
+    "languages": ["en", "fr"]
   },
   "GN": {
     "l10n": {
@@ -635,6 +779,22 @@
     },
     "calling_code": "509",
     "languages": ["fr", "ht"]
+  },
+  "HM": {
+    "l10n": {
+      "en": "Heard Island and McDonald Islands",
+      "zh": "赫德岛和麦克唐纳群岛"
+    },
+    "calling_code": "672",
+    "languages": ["en"]
+  },
+  "VA": {
+    "l10n": {
+      "en": "Holy See",
+      "zh": "梵蒂冈"
+    },
+    "calling_code": "3906698",
+    "languages": ["it", "la"]
   },
   "HN": {
     "l10n": {
@@ -708,6 +868,14 @@
     "calling_code": "353",
     "languages": ["en", "ga"]
   },
+  "IM": {
+    "l10n": {
+      "en": "Isle of Man",
+      "zh": "马恩岛"
+    },
+    "calling_code": "44",
+    "languages": ["en", "gv"]
+  },
   "IL": {
     "l10n": {
       "en": "Israel",
@@ -739,6 +907,14 @@
     },
     "calling_code": "81",
     "languages": ["ja"]
+  },
+  "JE": {
+    "l10n": {
+      "en": "Jersey",
+      "zh": "泽西岛"
+    },
+    "calling_code": "44",
+    "languages": ["en", "fr"]
   },
   "JO": {
     "l10n": {
@@ -887,14 +1063,6 @@
     "calling_code": "853",
     "languages": ["en"]
   },
-  "MK": {
-    "l10n": {
-      "en": "North Macedonia",
-      "zh": "北马其顿"
-    },
-    "calling_code": "389",
-    "languages": ["en"]
-  },
   "MG": {
     "l10n": {
       "en": "Madagascar",
@@ -951,6 +1119,14 @@
     "calling_code": "692",
     "languages": ["en"]
   },
+  "MQ": {
+    "l10n": {
+      "en": "Martinique",
+      "zh": "马提尼克"
+    },
+    "calling_code": "596",
+    "languages": ["fr"]
+  },
   "MR": {
     "l10n": {
       "en": "Mauritania",
@@ -966,6 +1142,14 @@
     },
     "calling_code": "230",
     "languages": ["en"]
+  },
+  "YT": {
+    "l10n": {
+      "en": "Mayotte",
+      "zh": "马约特"
+    },
+    "calling_code": "262",
+    "languages": ["fr"]
   },
   "MX": {
     "l10n": {
@@ -1013,6 +1197,14 @@
       "zh": "黑山"
     },
     "calling_code": "382",
+    "languages": ["en"]
+  },
+  "MS": {
+    "l10n": {
+      "en": "Montserrat",
+      "zh": "蒙特塞拉特"
+    },
+    "calling_code": "1664",
     "languages": ["en"]
   },
   "MA": {
@@ -1071,6 +1263,14 @@
     "calling_code": "31",
     "languages": ["en"]
   },
+  "NC": {
+    "l10n": {
+      "en": "New Caledonia",
+      "zh": "新喀里多尼亚"
+    },
+    "calling_code": "687",
+    "languages": ["fr"]
+  },
   "NZ": {
     "l10n": {
       "en": "New Zealand",
@@ -1102,6 +1302,38 @@
     },
     "calling_code": "234",
     "languages": ["en"]
+  },
+  "NU": {
+    "l10n": {
+      "en": "Niue",
+      "zh": "纽埃"
+    },
+    "calling_code": "683",
+    "languages": ["en"]
+  },
+  "NF": {
+    "l10n": {
+      "en": "Norfolk Island",
+      "zh": "诺福克岛"
+    },
+    "calling_code": "672",
+    "languages": ["en"]
+  },
+  "MK": {
+    "l10n": {
+      "en": "North Macedonia",
+      "zh": "北马其顿"
+    },
+    "calling_code": "389",
+    "languages": ["en"]
+  },
+  "MP": {
+    "l10n": {
+      "en": "Northern Mariana Islands",
+      "zh": "北马里亚纳群岛"
+    },
+    "calling_code": "1670",
+    "languages": ["en", "ch"]
   },
   "NO": {
     "l10n": {
@@ -1183,6 +1415,14 @@
     "calling_code": "63",
     "languages": ["en"]
   },
+  "PN": {
+    "l10n": {
+      "en": "Pitcairn",
+      "zh": "皮特凯恩群岛"
+    },
+    "calling_code": "64",
+    "languages": ["en"]
+  },
   "PL": {
     "l10n": {
       "en": "Poland",
@@ -1199,6 +1439,14 @@
     "calling_code": "351",
     "languages": ["pt"]
   },
+  "PR": {
+    "l10n": {
+      "en": "Puerto Rico",
+      "zh": "波多黎各"
+    },
+    "calling_code": "1787",
+    "languages": ["es", "en"]
+  },
   "QA": {
     "l10n": {
       "en": "Qatar",
@@ -1206,6 +1454,14 @@
     },
     "calling_code": "974",
     "languages": ["en"]
+  },
+  "RE": {
+    "l10n": {
+      "en": "Réunion",
+      "zh": "留尼汪"
+    },
+    "calling_code": "262",
+    "languages": ["fr"]
   },
   "RO": {
     "l10n": {
@@ -1231,6 +1487,22 @@
     "calling_code": "250",
     "languages": ["en"]
   },
+  "BL": {
+    "l10n": {
+      "en": "Saint Barthélemy",
+      "zh": "圣巴泰勒米"
+    },
+    "calling_code": "590",
+    "languages": ["fr"]
+  },
+  "SH": {
+    "l10n": {
+      "en": "Saint Helena, Ascension and Tristan da Cunha",
+      "zh": "圣赫勒拿"
+    },
+    "calling_code": "290",
+    "languages": ["en"]
+  },
   "KN": {
     "l10n": {
       "en": "Saint Kitts and Nevis",
@@ -1246,6 +1518,22 @@
     },
     "calling_code": "1758",
     "languages": ["en"]
+  },
+  "MF": {
+    "l10n": {
+      "en": "Saint Martin (French part)",
+      "zh": "法属圣马丁"
+    },
+    "calling_code": "590",
+    "languages": ["fr"]
+  },
+  "PM": {
+    "l10n": {
+      "en": "Saint Pierre and Miquelon",
+      "zh": "圣皮埃尔和密克隆群岛"
+    },
+    "calling_code": "508",
+    "languages": ["fr"]
   },
   "VC": {
     "l10n": {
@@ -1327,6 +1615,14 @@
     "calling_code": "65",
     "languages": ["en"]
   },
+  "SX": {
+    "l10n": {
+      "en": "Sint Maarten (Dutch part)",
+      "zh": "荷属圣马丁"
+    },
+    "calling_code": "1721",
+    "languages": ["nl", "en"]
+  },
   "SK": {
     "l10n": {
       "en": "Slovakia",
@@ -1365,6 +1661,14 @@
       "zh": "南非"
     },
     "calling_code": "27",
+    "languages": ["en"]
+  },
+  "GS": {
+    "l10n": {
+      "en": "South Georgia and the South Sandwich Islands",
+      "zh": "南乔治亚和南桑威奇群岛"
+    },
+    "calling_code": "500",
     "languages": ["en"]
   },
   "SS": {
@@ -1407,13 +1711,13 @@
     "calling_code": "597",
     "languages": ["en"]
   },
-  "SZ": {
+  "SJ": {
     "l10n": {
-      "en": "Eswatini",
-      "zh": "斯威士兰"
+      "en": "Svalbard and Jan Mayen",
+      "zh": "斯瓦尔巴和扬马延"
     },
-    "calling_code": "268",
-    "languages": ["en"]
+    "calling_code": "4779",
+    "languages": ["no"]
   },
   "SE": {
     "l10n": {
@@ -1489,6 +1793,14 @@
     "calling_code": "228",
     "languages": ["en"]
   },
+  "TK": {
+    "l10n": {
+      "en": "Tokelau",
+      "zh": "托克劳"
+    },
+    "calling_code": "690",
+    "languages": ["en"]
+  },
   "TO": {
     "l10n": {
       "en": "Tonga",
@@ -1529,6 +1841,14 @@
     "calling_code": "993",
     "languages": ["en"]
   },
+  "TC": {
+    "l10n": {
+      "en": "Turks and Caicos Islands",
+      "zh": "特克斯和凯科斯群岛"
+    },
+    "calling_code": "1649",
+    "languages": ["en"]
+  },
   "TV": {
     "l10n": {
       "en": "Tuvalu",
@@ -1561,7 +1881,7 @@
     "calling_code": "971",
     "languages": ["en"]
   },
-  "UK": {
+  "GB": {
     "l10n": {
       "en": "United Kingdom",
       "zh": "英国",
@@ -1579,6 +1899,14 @@
       "zh_Hant": "美國",
       "sv": "Förenta staterna",
       "de": "Vereinigte Staaten"
+    },
+    "calling_code": "1",
+    "languages": ["en"]
+  },
+  "UM": {
+    "l10n": {
+      "en": "United States Minor Outlying Islands",
+      "zh": "美国本土外小岛屿"
     },
     "calling_code": "1",
     "languages": ["en"]
@@ -1622,6 +1950,38 @@
     },
     "calling_code": "84",
     "languages": ["vi"]
+  },
+  "VG": {
+    "l10n": {
+      "en": "Virgin Islands (British)",
+      "zh": "英属维尔京群岛"
+    },
+    "calling_code": "1284",
+    "languages": ["en"]
+  },
+  "VI": {
+    "l10n": {
+      "en": "Virgin Islands (U.S.)",
+      "zh": "美属维尔京群岛"
+    },
+    "calling_code": "1340",
+    "languages": ["en"]
+  },
+  "WF": {
+    "l10n": {
+      "en": "Wallis and Futuna",
+      "zh": "瓦利斯和富图纳"
+    },
+    "calling_code": "681",
+    "languages": ["fr"]
+  },
+  "EH": {
+    "l10n": {
+      "en": "Western Sahara",
+      "zh": "西撒哈拉"
+    },
+    "calling_code": "212",
+    "languages": ["es"]
   },
   "YE": {
     "l10n": {
